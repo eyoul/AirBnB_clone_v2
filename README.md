@@ -16,5 +16,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 * Eyoul Shimeles Wagaye <[Eyoul Shimeles](https://github.com/eyoul)>
-* Mariamawit Guebremedhin < [Mariamawit Guebremedhin] (https://github.com/MariamawitS)>
-
+* Mariamawit Guebremedhin <[Mariamawit Guebremedhin](https://github.com/MariamawitS)>
